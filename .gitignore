@@ -1,2 +1,4 @@
 tmp/
 .idea/
+former/
+image_collector/*.log

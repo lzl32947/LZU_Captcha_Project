@@ -11,7 +11,7 @@ from util.web_util.contrib import *
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.DEBUG)
 
-file_handler = logging.FileHandler("./{}.log".format(time.strftime("%Y%m%d%H%M%S")))
+file_handler = logging.FileHandler("./{}.log".format(time.strftime("%Y%m%d%H%M%S")), encoding="utf-8")
 file_handler.setLevel(logging.INFO)
 console = logging.StreamHandler()
 console.setLevel(logging.INFO)
