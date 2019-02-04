@@ -1,7 +1,7 @@
 <annotation verified="yes">
 	<folder>data</folder>
-	<filename>20190202194829.jpeg</filename>
-	<path>F:\Pycharm Projects\Captcha_Project\resources\data\20190202194829.jpeg</path>
+	<filename>20190202195431.jpeg</filename>
+	<path>F:\Pycharm Projects\Captcha_Project\resources\data\20190202195431.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,14 +12,14 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>4</name>
+		<name>9</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>5</xmin>
+			<xmin>4</xmin>
 			<ymin>1</ymin>
-			<xmax>16</xmax>
+			<xmax>15</xmax>
 			<ymax>13</ymax>
 		</bndbox>
 	</object>
@@ -29,34 +29,46 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>15</xmin>
+			<xmin>16</xmin>
 			<ymin>1</ymin>
-			<xmax>25</xmax>
+			<xmax>26</xmax>
 			<ymax>13</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>8</name>
+		<name>0</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>25</xmin>
-			<ymin>1</ymin>
-			<xmax>36</xmax>
-			<ymax>13</ymax>
+			<ymin>2</ymin>
+			<xmax>32</xmax>
+			<ymax>12</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>8</name>
+		<name>0</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>37</xmin>
+			<xmin>35</xmin>
 			<ymin>1</ymin>
-			<xmax>47</xmax>
-			<ymax>13</ymax>
+			<xmax>46</xmax>
+			<ymax>14</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>9</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>1</ymin>
+			<xmax>59</xmax>
+			<ymax>14</ymax>
 		</bndbox>
 	</object>
 </annotation>
